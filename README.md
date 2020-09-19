@@ -46,7 +46,7 @@
 |44| | | |
 |45|heads up|do not read aloud, throw this tile at someone. if they catch you drink otherwise they drink|<img src="./block/block_heads up.svg">|
 |46|i am groot|tallest person drinks|<img src="./block/block_I AM GROOT.svg">|
-|47|Jar Jar|You have to speak like JarJar Binks for the rest of the game|<img src="./blocks/jarjar.svg">|
+|47|Jar Jar|You have to speak like JarJar Binks for the rest of the game|<img src="./block/jarjar.svg">|
 |48|Know it all|If you are asked a question the person who answers drinks|<img src="./block/block_KnowItAll.svg">|
 |49|Later|Person before you at some point in the game tells you to drink|<img src="./block/block_Later.svg">|
 |50|Lightning Round|10 seconds between moving blocks - if you fail you drink|<img src="./block/block_LightningRound.svg">|
